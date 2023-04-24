@@ -1,6 +1,6 @@
     //Conversion larga 
     var Celcius1= prompt("Introduzca la temperatur en ° Celcius");
-    Celcius = parseFloat (Celcius1);
+    Celcius1 = parseFloat (Celcius1);
 
     //Conversion corta
     var Celcius1 = parseFloat (prompt("introduzca la temperatura en grados"));
